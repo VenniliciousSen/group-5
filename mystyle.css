@@ -1,0 +1,14 @@
+.carousel-height{
+	height: 400px;
+}
+.blue-nav{
+	background-color: blue;
+}
+.text-green{
+	color:green;
+}
+.show-boarder{
+	border: solid blue 2px;
+	border-radius:20px;
+	padding: 10px;
+}
